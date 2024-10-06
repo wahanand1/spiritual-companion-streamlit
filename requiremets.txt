@@ -1,0 +1,7 @@
+langchain-aws
+langchain-community
+streamlit
+faiss-cpu
+streamlit_lottie
+    
+    
